@@ -110,6 +110,6 @@ const updateTotal = () => {
 };
 
 // buy now button click (order confirmation)
-const placeOrder = () => {
-  alert("Your order placed. Thank you.")
+const buyNow = () => {
+  alert("Order Checkout Complete!")
 }
